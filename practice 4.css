@@ -86,7 +86,7 @@ width: 95%;
 
   align-items: center;
 
-  visibilty: hidden;
+  visibility: hidden;
 
   opacity: 0;
 
@@ -484,3 +484,23 @@ width: 95%;
 }
 
 
+.letter {
+
+  color: #551029;
+  font-family: 'Arial', sans-serif;
+  
+  float: left;
+
+ font-size: 84px;
+
+ line-height: 64px;
+
+ padding-top: 4px;
+
+ padding-right: 8px;
+
+ padding-left: 3px;
+
+ font-family: 'Montserrat', sans-serif;
+
+}
