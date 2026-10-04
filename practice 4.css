@@ -496,3 +496,8 @@ width: 95%;
 .text {
 	color: white;
 }
+
+.reduced-image {
+	width: 95%;
+    height: auto;
+}
