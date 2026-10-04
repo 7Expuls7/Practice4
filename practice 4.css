@@ -112,7 +112,7 @@ width: 95%;
 
   height: 100vh;
 
-  width: 100%;
+  width: 95%;
 
   background: transparent;
 
@@ -495,9 +495,4 @@ width: 95%;
 
 .text {
 	color: white;
-}
-
-.reduced-image {
-	width: 95%;
-    height: auto;
 }
