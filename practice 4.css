@@ -16,7 +16,7 @@ html, body {
 
   position: absolute;
 
-  margin-top: -420px;
+  margin-top: -410px;
 
   overflow: auto;
 
@@ -446,7 +446,7 @@ width: 100%;
 
   line-height: 28px;
 
-  color: #4a4f44;
+  color: #8b9284;
 
   transition: .3s ease-in-out;
 
@@ -466,7 +466,7 @@ width: 100%;
 
 .nav-animate {
 
-  color: #8b9284 !important;
+  color: #4a4f44 !important;
   float: left;
 
  font-size: 84px;
