@@ -16,7 +16,7 @@ html, body {
 
   position: absolute;
 
-  margin-top: -410px;
+  margin-top: -415px;
 
   overflow: auto;
 
@@ -44,7 +44,7 @@ html, body {
 
 img {
 
-width: 100%;
+width: 95%;
 
   }
 
@@ -195,7 +195,7 @@ width: 100%;
 
   height: 40px;
 
-  width: 121px;
+  width: 150px;
 
   position: absolute;
 
@@ -231,7 +231,7 @@ width: 100%;
 
 .loader {
 
-  width: 121px !important;
+  width: 150px !important;
 
 }
 
