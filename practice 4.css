@@ -16,7 +16,7 @@ html, body {
 
   position: absolute;
 
-  margin-top: -450px;
+  margin-top: -420px;
 
   overflow: auto;
 
@@ -44,7 +44,7 @@ html, body {
 
 img {
 
-width: 95%;
+width: 100%;
 
   }
 
@@ -282,7 +282,7 @@ width: 95%;
 
 #menu-button {
 
-  height: 30px;
+  height: 20px;
 
   width: 35px;
 
@@ -369,7 +369,7 @@ width: 95%;
 
 #menu-button.hover-color div {
 
-  background: #8b9284;
+  background: #4a4f44;
 
 }
 
@@ -377,7 +377,7 @@ width: 95%;
 
 #menu-button.hover-color2 div {
 
-  background: #000000 !important;
+  background: #8b9284 !important;
 
 }
 
@@ -446,7 +446,7 @@ width: 95%;
 
   line-height: 28px;
 
-  color: #000000;
+  color: #4a4f44;
 
   transition: .3s ease-in-out;
 
