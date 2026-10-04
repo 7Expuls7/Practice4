@@ -16,7 +16,7 @@ html, body {
 
   position: absolute;
 
-  margin-top: -10px;
+  margin-top: -200px;
 
   overflow: auto;
 
@@ -222,7 +222,7 @@ width: 95%;
 
   position: absolute;
 
-  background: white;
+  background: #8b9284;
 
   transition: .3s ease-in-out;
 
@@ -303,7 +303,7 @@ width: 95%;
 
   width: 100%;
 
-  background: white;
+  background: #000000;
 
   position: absolute;
 
@@ -355,7 +355,7 @@ width: 95%;
 
 #menu-button.change-color div {
 
-  background: #551029;
+  background: #8b9284;
 
 }
 
@@ -369,7 +369,7 @@ width: 95%;
 
 #menu-button.hover-color div {
 
-  background: #551029;
+  background: #8b9284;
 
 }
 
@@ -377,7 +377,7 @@ width: 95%;
 
 #menu-button.hover-color2 div {
 
-  background: white !important;
+  background: #000000 !important;
 
 }
 
@@ -404,7 +404,7 @@ width: 95%;
 
 .reveal {
 
-  height: 700px !important;
+  height: 712px !important;
 
 }
 
@@ -446,7 +446,7 @@ width: 95%;
 
   line-height: 28px;
 
-  color: #551029;
+  color: #8b9284;
 
   transition: .3s ease-in-out;
 
@@ -486,7 +486,7 @@ width: 95%;
 
 .letter {
 
-  color: #551029;
+  color: ##8b9284;
   font-family: 'Arial', sans-serif;
   
   float: left;
